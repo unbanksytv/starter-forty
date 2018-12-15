@@ -4,11 +4,11 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Hi, my name is Forty</h1>
+                <h1>One Ne Lache Rien. #ONLR</h1>
             </header>
             <div className="content">
-                <p>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                <p>JAM stands for Javascript API & Markup.<br />
+                Gatsby is a blazing-fast SSG for React...</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
