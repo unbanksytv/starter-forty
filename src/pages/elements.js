@@ -2,10 +2,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic03 from '../assets/images/pic03.jpg'
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
+import pic03 from '../assets/images/Sunset-House-Tamarindo.jpg'
+import pic08 from '../assets/images/kandui-resort-2016-1.jpg'
+import pic09 from '../assets/images/surfberbere.jpg'
+import pic10 from '../assets/images/CAPE-ST-FRANCIS-SURF-RESORT-south-africa-accommodation-beachfront-0.jpg'
 
 const Elements = (props) => (
     <Layout>
