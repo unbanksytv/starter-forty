@@ -17,10 +17,10 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="ONLR"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'gatsby.js' },
+                        { name: 'keywords', content: 'gatsby, netifly' },
                     ]}
                 >
                 </Helmet>
