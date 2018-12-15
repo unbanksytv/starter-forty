@@ -9,7 +9,7 @@ import pic02 from '../assets/images/Babylonstoren-Hotel-Winery-Vineyard-Franschh
 import pic03 from '../assets/images/Hotel-Alaia-Punta-de-Lobos-6-1.jpg'
 import pic04 from '../assets/images/Hudhuranfushi-4.jpg'
 import pic05 from '../assets/images/Kimpton-Shorebreak-Hotel-3.jpg'
-import pic06 from '../assets/images/pic06.jpg'
+import pic06 from '../assets/images/Sherwood-Queenstown-NZ-4.jpg'
 
 class HomeIndex extends React.Component {
     render() {
