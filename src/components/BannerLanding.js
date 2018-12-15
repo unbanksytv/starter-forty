@@ -7,8 +7,7 @@ const BannerLanding = (props) => (
                 <h1>Landing</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>Apart from being a SSG, Gatsby is build with modern technologies, it’s future-proof, it’s a static PWA out-of-the-box and you can query your data from anywhere via GraphQL.</p>
             </div>
         </div>
     </section>
