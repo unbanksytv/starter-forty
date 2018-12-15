@@ -75,9 +75,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Massa libero</h2>
+                                <h2>Live The Life</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>Today, it’s having content that inspires a traveler to dream. Tomorrow, it will be helping assist that dream with voice searches” LTL hand-picked Independent hotels with personality located at surf beaches and snow resorts and offers expert-curated travel advice. Matching preferences based on lifestyle, architecture, interior design, and ambassador experiences. These insiders are often journalists, photographers & filmmakers.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
