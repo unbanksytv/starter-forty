@@ -4,7 +4,7 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>One Ne Lache Rien. #ONLR</h1>
+                <h1>On Ne Lache Rien. #ONLR</h1>
             </header>
             <div className="content">
                 <p>JAM stands for Javascript API & Markup.<br />
