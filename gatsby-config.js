@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: "Gatsby Starter - Forty V2",
     author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
+    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP",
+    siteUrl: `https://onlr.netlify.com/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -20,5 +21,6 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
+    `gatsby-plugin-sitemap`
   ],
 }
