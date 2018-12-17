@@ -19,7 +19,7 @@ module.exports = {
       },
       resolve: `gatsby-source-wordpress`,
       options: {
-        baseUrl: `livethelife.tv/travel/wp-json`,
+        baseUrl: `livethelife.tv/`,
         protocol: `https`,
         hostingWPCOM: false,
         useACF: true,
