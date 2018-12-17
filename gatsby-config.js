@@ -19,12 +19,14 @@ module.exports = {
       },
       resolve: `gatsby-source-wordpress`,
       options: {
-        baseUrl: `livethelife.tv/travel/`,
+        baseUrl: `livethelife.tv/travel/wp-json`,
         protocol: `https`,
         hostingWPCOM: false,
         useACF: true,
+      },
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
   ],
-}
+}  
+      
