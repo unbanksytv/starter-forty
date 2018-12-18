@@ -17,13 +17,6 @@ module.exports = {
         display: 'minimal-ui',
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
-      resolve: `gatsby-source-wordpress`,
-      options: {
-        baseUrl: `livethelife.tv/`,
-        protocol: `https`,
-        hostingWPCOM: false,
-        useACF: true,
-      },
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
